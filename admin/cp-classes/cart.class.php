@@ -4,6 +4,7 @@
  *
  * Zenbership Membership Software
  * Copyright (C) 2013-2016 Castlamp, LLC
+ * Copyright (C) 2017 Cory Hyland
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -21,7 +22,7 @@
  * @author      Castlamp
  * @link        http://www.castlamp.com/
  * @link        http://www.zenbership.com/
- * @copyright   (c) 2013-2016 Castlamp
+ * @copyright   (c) 2013-2016 Castlamp && (c) 2017 Cory Hyland
  * @license     http://www.gnu.org/licenses/gpl-3.0.en.html
  * @project     Zenbership Membership Software
  */
